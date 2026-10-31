@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: fedora
-          image: fedora:latest
+          image: fedora
           commands:
             - "sleep"
             - "96000"
