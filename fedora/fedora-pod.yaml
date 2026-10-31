@@ -18,4 +18,4 @@ spec:
           image: fedora:latest
           commands:
             - "sleep"
-            - "infinity"
+            - "96000"
